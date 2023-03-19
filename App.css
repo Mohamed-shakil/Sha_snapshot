@@ -1,0 +1,27 @@
+h1{
+  color:blueviolet;
+  margin: auto;
+  text-align: center;
+}
+input{
+  margin-left: 300px;
+}
+button{
+  background-color: blueviolet;
+  color: bisque;
+  margin: auto;
+  margin: 10px;
+}
+.image-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+img:hover{
+  transform: scale(1.1);
+}
+.nav{
+  margin-left: 500px;
+}
